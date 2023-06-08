@@ -6,7 +6,6 @@ BirdOp is a captivating web application that brings you closer to the fascinatin
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
