@@ -29,7 +29,7 @@ We welcome contributions from the open-source community to make BirdOp even bett
 
 ## Authors
 - Kunal Khairnar ([GitHub](https://github.com/Kunal-Khairnar-05))
-- Sujay Deshpande ([GitHub]((https://github.com/Sujay-Deshpande)))
+- Sujay Deshpande ([GitHub](https://github.com/Sujay-Deshpande))
 
 
 We are passionate about birds and believe in creating tools to make birdwatching accessible to everyone.
